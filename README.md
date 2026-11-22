@@ -6,6 +6,9 @@ Aplicación web desarrollada en PHP y MySQL para manejar contactos. Cuenta con b
 - Enlace: `https://tareaagendaharolito.freepage.cc/`
 
 # 2. Capturas de pantalla
+<img width="633" height="627" alt="Prueba edicion" src="https://github.com/user-attachments/assets/ca0f9412-fbba-4ec9-a532-fb366baadf0f" />
+<img width="1422" height="516" alt="Vista lista de contactos" src="https://github.com/user-attachments/assets/a602cc5a-a329-4206-9f4d-362a2e311111" />
+<img width="1403" height="384" alt="Filtrado por ciudad" src="https://github.com/user-attachments/assets/92281278-41d1-426d-9454-a22d06a528e4" />
 
 
 # 3. Tecnologias usadas
